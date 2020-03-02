@@ -14,8 +14,8 @@
                     "parampattern":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
                     "begin": "2019-01-01 11:22:33",
                     "end":"2020-12-12 11:22:33",
-                    "freq":"5",
-                    "rate":"3" ,
+                    "polling":"5",
+                    "internal":"3" ,
                     "threadcount":"10"
                     },
                     {
@@ -26,8 +26,8 @@
                     "parampattern":"a=<int:1,5>&b=<string:16>&c=<intstring:64>",
                     "begin": "2019-01-01 11:22:33",
                     "end":"2020-12-12 11:22:33",
-                    "freq":"5",
-                    "rate":"3" ,
+                    "polling":"5",
+                    "internal":"3" ,
                     "threadcount":"10"
                     }
                 ]
