@@ -4,7 +4,7 @@
                 "tasktype":"ddos",
                 "plans":[
                     {
-                    "ddostype":"httppost",
+                    "ddostype":"httpget",
                     "url":"www.baidu.com/sss111.php",
                     "ip":"",
                     "port":"80",
@@ -27,7 +27,7 @@
                 "tasktype":"ddos",
                 "plans":[
                     {
-                    "ddostype":"httppost",
+                    "ddostype":"httpget",
                     "url":"www.baidu.com/sss222.php",
                     "ip":"",
                     "port":"80",
