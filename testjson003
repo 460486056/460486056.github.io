@@ -9,14 +9,14 @@
                     "ip":"",
                     "port":"80",
                     "parampattern":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
-                    "internal":"3" ,
+                    "interval":"3" ,
                     "threadcount":"10"
                     },
                     {
                     "ddostype":"tcpsyn",
                     "ip":"182.140.139.101",
                     "port":"3306",
-                    "internal":"3" ,
+                    "interval":"3" ,
                     "threadcount":"10",
                     "xxxx":"dfdf"
                     }
@@ -32,14 +32,14 @@
                     "ip":"",
                     "port":"80",
                     "parampattern":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
-                    "internal":"3" ,
+                    "interval":"3" ,
                     "threadcount":"10"
                     },
                     {
                     "ddostype":"tcpsyn",
                     "ip":"182.140.139.102",
                     "port":"3306",
-                    "internal":"3" ,
+                    "interval":"3" ,
                     "threadcount":"10",
                     "xxxx":"dfdf"
                     }
