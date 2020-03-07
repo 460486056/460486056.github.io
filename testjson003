@@ -8,7 +8,7 @@
                     "url":"www.baidu.com/sss111.php",
                     "ip":"",
                     "port":"80",
-                    "parampattern":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
+                    "postdata":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
                     "interval":"3" ,
                     "threadcount":"10"
                     },
@@ -31,7 +31,7 @@
                     "url":"www.baidu.com/sss222.php",
                     "ip":"",
                     "port":"80",
-                    "parampattern":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
+                    "postdata":"a=<int:1,5>&wd=<string:16>&c=<intstring:64>",
                     "interval":"3" ,
                     "threadcount":"10"
                     },
